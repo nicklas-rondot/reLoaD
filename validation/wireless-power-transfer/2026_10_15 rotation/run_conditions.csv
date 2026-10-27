@@ -1,0 +1,16 @@
+capture,rpm,transmitter_voltage_v,transmitter_current_midpoint_a
+capture_000020,0,12,1.65
+capture_000022,1000,12,1.64
+capture_000023,2000,12,1.69
+capture_000024,500,12,1.68
+capture_000025,1500,12,1.68
+capture_000026,2000,12,1.7
+capture_000027,500,12,1.69
+capture_000028,1000,12,1.68
+capture_000029,1500,12,1.69
+capture_000030,2000,12,1.71
+capture_000031,0,12,1.65
+capture_000032,0,12,1.62
+capture_000033,500,12,1.65
+capture_000034,1000,12,1.68
+capture_000035,1500,12,1.69
